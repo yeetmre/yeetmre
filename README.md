@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cyber Security, Python, Machine Learning**
 
-- 💬 Ask me about **Aı,python, AI, Machine Learning, Computer Vision, Cyber Security, Deep Learning**
+- 💬 Ask me about **AI,python, AI, Machine Learning, Computer Vision, Cyber Security, Deep Learning**
 
 - 📫 How to reach me **yemre.unlu@hotmail.com**
 
